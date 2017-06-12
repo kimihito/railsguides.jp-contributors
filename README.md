@@ -38,6 +38,6 @@ bin/rails test
 
 Forked from [fxn/rails-contributors](https://github.com/fxn/rails-contributors), Copyright (c) 2012–<i>ω</i> Xavier Noria.
 
-Customized for [railsguides.jp/](https://railsguides.jp/), released under the MIT License &copy; 2017 [YassLab](https://yasslab.jp).
+Customized for [railsguides.jp](https://railsguides.jp/), released under the MIT License &copy; 2017 [YassLab](https://yasslab.jp).
 
 [![YassLab Logo](https://yasslab.jp/img/logo_800x200.png)](https://yasslab.jp/)
