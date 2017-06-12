@@ -1,6 +1,6 @@
 # Rails Contributors
 
-This is the application behind http://contributors.rubyonrails.org.
+This is the application behind https://contributors.railsguides.jp/.
 
 ## Ruby
 
@@ -36,4 +36,8 @@ bin/rails test
 
 ## License
 
-Released under the MIT License, Copyright (c) 2012–<i>ω</i> Xavier Noria.
+Forked from [fxn/rails-contributors](https://github.com/fxn/rails-contributors), Copyright (c) 2012–<i>ω</i> Xavier Noria.
+
+Customized for [railsguides.jp/](https://railsguides.jp/), released under the MIT License &copy; 2017 [YassLab](https://yasslab.jp).
+
+[![YassLab Logo](https://yasslab.jp/img/logo_800x200.png)](https://yasslab.jp/)
